@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: social-twitter 
+
+  social:
+    twitter:
+      appId: <SOME-TWITTER-APPID>
+      appSecret: <SOME-TWITTER-APPSECRET>
+
+    
